@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Miguel Angel Liera Montaño
 
-# Computer Scientist
+<p align="center">
+ Computer Scientist
+</p>
 
 ## ✉️ Find me on:
 
