@@ -10,8 +10,8 @@
 
 <p align="center">
  <!--<a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>-->
- <a href="https://www.linkedin.com/in/miguel-liera" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:miguelliera10@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/miguel-liera" target="_blank" rel="noopener noreferrer"> <img src="https://imgs.search.brave.com/SQsaFNKXL9x2pacICOrPpnY5c1-Eee1Vf0jOmntInaM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:miguelliera10@gmail.com"> <img src="https://imgs.search.brave.com/9uYGMwaGbc9iIR8ROKbpr-nlHnQf4zvB1bpWfhpcAw8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1tYXJjYXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzExL0dtYWlsLUxv/Z28tNjUweDM2Ni5w/bmc" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
