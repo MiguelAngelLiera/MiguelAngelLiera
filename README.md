@@ -150,6 +150,8 @@ I'm a Computer Scientist with two years of experience in finance. Specialized on
  </a>
  <a href="mailto:miguelliera10@gmail.com" target="_blank" rel="noreferrer"> 
   <picture> 
+   <source media="(prefers-color-scheme: dark)" srcset="https://imgs.search.brave.com/9uYGMwaGbc9iIR8ROKbpr-nlHnQf4zvB1bpWfhpcAw8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1tYXJjYXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzExL0dtYWlsLUxv/Z28tNjUweDM2Ni5w/bmc" /> 
+   <source media="(prefers-color-scheme: light)" srcset="https://imgs.search.brave.com/9uYGMwaGbc9iIR8ROKbpr-nlHnQf4zvB1bpWfhpcAw8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1tYXJjYXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzExL0dtYWlsLUxv/Z28tNjUweDM2Ni5w/bmc" /> 
    <img src="https://imgs.search.brave.com/9uYGMwaGbc9iIR8ROKbpr-nlHnQf4zvB1bpWfhpcAw8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1tYXJjYXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzExL0dtYWlsLUxv/Z28tNjUweDM2Ni5w/bmc" height="32" >
   </picture> 
  </a>
