@@ -56,7 +56,7 @@ Hi 👋 My name is Miguel Angel Liera Montaño
 Data Scientist and Software Developer
 -------------------------------------
 
-I'm a Computer Scientist with two years of experience in finance. Specialized on the implementation of ML models: neural networks, regression, clustering and desicion trees with Python, R and Scala. Supporting the desicion making proces based in data. I´ve experience in App Development with Java and relational DB management.
+I'm a Computer Scientist with four years of experience in finance. Specialized on the implementation of ML models: neural networks, regression, clustering and desicion trees with Python, R and Scala. Supporting the desicion making proces based in data. I´ve experience in App Development with Java and relational DB management.
 
 * 🌍  I'm based in Ciudad de México
 
